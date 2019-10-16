@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+h1{
+  color: blue;
+}
+.title{
+  font-size: 50px
+}
+.column {
+  float: left;
+  margin: 5%;
+  width: 20%;
+}
+.columns {
+    margin-left: 10%;
+
+}
+p a {
+  color: pink;
+}
